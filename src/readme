@@ -1,0 +1,3 @@
+to run the program, simply do javac *.java to compile
+
+then, java Pager <inputs>
